@@ -13,8 +13,8 @@ header,blockquote{
 img{
   width:1000px;
   height:
-  
-}
+  }
+
 img{
   position:relative;
   
@@ -61,7 +61,7 @@ h3{
 p,ul,h1,h2{
   font-family: 'Josefin Sans', sans-serif;
   color:#222;
-  word-spacing:5px;*/
+  word-spacing:5px;
  
 }
 
@@ -71,11 +71,8 @@ blockquote{
   padding:0px 10px 10px 10px;
   margin-left:-50px;
   margin-top:30px;
-  
   align-items:center;
-   
   width:900px;
-  
   color:white;
   font-size:50px;
 }
@@ -111,9 +108,7 @@ li{
 }
 .container h3{
  margin-top:0px;
- 
-  
-}
+ }
 .container p{
   line-height:23px;
 }
